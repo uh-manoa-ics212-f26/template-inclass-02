@@ -1,4 +1,4 @@
-# In Class Practice 01 Repository Guide
+# In Class Practice 02 Repository Guide
 
 ## Repository Setup Instructions
 
@@ -7,7 +7,7 @@
 3. Click "create a new repository".
 4. Under **Owner**, select this organization (uh-manoa-ics212-f26).
 5. Set the repository **Visibility** to **Private**.
-6. Name your repository exactly like this: inclass=02-your_uh_username
+6. Name your repository exactly like this: inclass-02-your_uh_username
 
 ---
 
